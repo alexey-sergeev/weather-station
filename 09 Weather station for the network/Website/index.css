@@ -1,0 +1,65 @@
+/* .ct-series-a .ct-area, .ct-series-a .ct-slice-donut-solid, .ct-series-a .ct-slice-pie {
+  fill: #2202d7  !important;
+} */
+
+.ct-series-b .ct-line,
+.ct-series-b .ct-point {
+  stroke: #0aa2c0 !important;
+}
+
+.ct-series-c .ct-line,
+.ct-series-c .ct-point {
+  stroke: #1aa179 !important;
+}
+
+
+
+/* .ct-series-a .ct-bar, .ct-series-a .ct-line, .ct-series-a .ct-point, .ct-series-a .ct-slice-donut {
+  stroke: #ff0;
+} */
+
+.ct-series-b .ct-area, .ct-series-b .ct-slice-donut-solid, .ct-series-b .ct-slice-pie {
+  fill: #f05b4f;
+}
+
+.ct-golden-section .ct-line {
+  height: 200px;
+}
+
+.ct-golden-section .ct-line {
+  stroke-width: 1.3px;
+}
+
+.ct-golden-section::before {
+  padding-bottom: 200px!important;;
+}
+
+.card img {
+  margin: 12px;
+}
+
+.card img.window {
+  margin: 0;
+}
+
+.sun {
+  margin-left: -64px;
+}
+
+.sen2 {
+  background-color: #a6e9d5 !important;
+  border-color: #a6e9d5 !important;
+}
+.sen3 {
+  background-color: #9eeaf9 !important;
+  border-color: #9eeaf9 !important;
+}
+.sen5 {
+  background-color: #fff3cd !important;
+  border-color: #fff3cd !important;
+}
+
+.sen6 {
+  background-color: #f7d6e6 !important;
+  border-color: #f7d6e6 !important;
+}
