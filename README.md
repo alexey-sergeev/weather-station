@@ -10,3 +10,7 @@ https://t.me/Arduino_i_vse_vse_vse/751
 <b>Сеть метеостанций</b>
 
 https://t.me/Arduino_i_vse_vse_vse/824
+
+<b>Мини-метеостанция с часами</b>
+
+https://t.me/Arduino_i_vse_vse_vse/942
